@@ -1,6 +1,6 @@
 # Sakura Gojuon (日文 50 音學習)
 
-[開始學習 (Live Demo)](src/index.html) | [English](README.md)
+[開始學習 (Live Demo)](https://breeze833.github.io/sakura-gojuon/) | [English](README.md)
 
 這是一個專為繁體中文使用者（台灣）設計的日文平假名與片假名學習資源。使用 `reveal.js` 製作，提供互動式的 50 音學習投影片。
 

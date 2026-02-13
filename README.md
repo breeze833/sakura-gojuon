@@ -1,6 +1,6 @@
 # Sakura Gojuon (Japanese 50 Sounds Learning)
 
-[Start Learning (Live Demo)](src/index.html) | [繁體中文 (Traditional Chinese)](README_zh-TW.md)
+[Start Learning (Live Demo)](https://breeze833.github.io/sakura-gojuon/) | [繁體中文 (Traditional Chinese)](README_zh-TW.md)
 
 This project is a comprehensive learning resource for Japanese Hiragana and Katakana, designed specifically for Traditional Chinese speakers (Taiwan). It uses `reveal.js` to create an interactive slide deck for mastering the 50 sounds.
 
