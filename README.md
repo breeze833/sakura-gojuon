@@ -51,5 +51,7 @@ This project is a comprehensive learning resource for Japanese Hiragana and Kata
 ## Project Background
 The development history and technical evolution of this project are documented in [Project History](doc/DEVELOPMENT_HISTORY.md).
 
+Reflection: [My First Experience Developing with Antigravity and Reveal.js](https://medium.com/@breeze833/my-first-experience-developing-with-antigravity-and-reveal-js-acacc4e0400b)
+
 ## License
 MIT
