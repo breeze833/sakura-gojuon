@@ -39,12 +39,14 @@ This project is a comprehensive learning resource for Japanese Hiragana and Kata
 
 ## Setup
 1. Clone the repository.
-2. Open `src/index.html` in your browser.
-3. For local development, run a simple HTTP server:
+2. **Run a local web server** (Required due to CORS restrictions):
    ```bash
+   # Python 3
    python3 -m http.server 8000
    ```
-   Then navigate to `http://localhost:8000/src/`.
+3. Open `http://localhost:8000/src/` in your browser.
+
+   > **Note**: You cannot open `src/index.html` directly in the browser because the application needs to load external Markdown files (`slides.md`), which is blocked by CORS policies on the `file://` protocol.
 
 ## License
 MIT

@@ -39,12 +39,14 @@
 
 ## 安裝與執行
 1. Clone 此專案。
-2. 在瀏覽器中打開 `src/index.html`。
-3. 若需本地開發，可執行簡單的 HTTP server：
+2. **執行本地端 Web Server** (由於 CORS 限制，必須透過 Web Server 開啟)：
    ```bash
+   # 使用 Python 3
    python3 -m http.server 8000
    ```
-   然後瀏覽 `http://localhost:8000/src/`。
+3. 在瀏覽器中打開 `http://localhost:8000/src/`。
+
+   > **注意**: 您無法直接用瀏覽器開啟 `src/index.html` 檔案，因為程式需要讀取外部 Markdown 檔案 (`slides.md`)，這會被瀏覽器的 CORS 安全策略擋下 (file:// 協定不支援)。
 
 ## 授權
 MIT
