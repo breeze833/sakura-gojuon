@@ -1,4 +1,4 @@
-# Japanese 50 Sounds Learning (Traditional Chinese)
+# Sakura Gojuon (Japanese 50 Sounds Learning)
 
 ## Project Overview
 This project aims to create a comprehensive learning resource for Japanese Hiragana and Katakana using reveal.js slides.

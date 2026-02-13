@@ -1,4 +1,4 @@
-# 日文 50 音學習 (繁體中文)
+# Sakura Gojuon (日文 50 音學習)
 
 [開始學習 (Live Demo)](src/index.html) | [English](README.md)
 
@@ -47,6 +47,9 @@
 3. 在瀏覽器中打開 `http://localhost:8000/src/`。
 
    > **注意**: 您無法直接用瀏覽器開啟 `src/index.html` 檔案，因為程式需要讀取外部 Markdown 檔案 (`slides.md`)，這會被瀏覽器的 CORS 安全策略擋下 (file:// 協定不支援)。
+
+## 專案背景
+本專案的發展歷程與技術嘗試記錄於 [專案發展歷程](doc/DEVELOPMENT_HISTORY.md)。
 
 ## 授權
 MIT

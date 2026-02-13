@@ -1,4 +1,4 @@
-# Japanese 50 Sounds Learning (Traditional Chinese)
+# Sakura Gojuon (Japanese 50 Sounds Learning)
 
 [Start Learning (Live Demo)](src/index.html) | [繁體中文 (Traditional Chinese)](README_zh-TW.md)
 
@@ -47,6 +47,9 @@ This project is a comprehensive learning resource for Japanese Hiragana and Kata
 3. Open `http://localhost:8000/src/` in your browser.
 
    > **Note**: You cannot open `src/index.html` directly in the browser because the application needs to load external Markdown files (`slides.md`), which is blocked by CORS policies on the `file://` protocol.
+
+## Project Background
+The development history and technical evolution of this project are documented in [Project History](doc/DEVELOPMENT_HISTORY.md).
 
 ## License
 MIT
