@@ -51,5 +51,7 @@
 ## 專案背景
 本專案的發展歷程與技術嘗試記錄於 [專案發展歷程](doc/DEVELOPMENT_HISTORY.md)。
 
+心得：[我與 AI Agent 共同開發 Reveal.js 投影片的首次體驗](https://medium.com/@breeze833/%E6%88%91%E8%88%87-ai-agent-%E5%85%B1%E5%90%8C%E9%96%8B%E7%99%BC-reveal-js-%E6%8A%95%E5%BD%B1%E7%89%87%E7%9A%84%E9%A6%96%E6%AC%A1%E9%AB%94%E9%A9%97-232b0dd004d1)
+
 ## 授權
 MIT
