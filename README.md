@@ -1,6 +1,6 @@
 # Japanese 50 Sounds Learning (Traditional Chinese)
 
-[Start Learning (Live Demo)](index.html) | [繁體中文 (Traditional Chinese)](README_zh-TW.md)
+[Start Learning (Live Demo)](src/index.html) | [繁體中文 (Traditional Chinese)](README_zh-TW.md)
 
 This project is a comprehensive learning resource for Japanese Hiragana and Katakana, designed specifically for Traditional Chinese speakers (Taiwan). It uses `reveal.js` to create an interactive slide deck for mastering the 50 sounds.
 
@@ -39,11 +39,12 @@ This project is a comprehensive learning resource for Japanese Hiragana and Kata
 
 ## Setup
 1. Clone the repository.
-2. Open `index.html` in your browser.
+2. Open `src/index.html` in your browser.
 3. For local development, run a simple HTTP server:
    ```bash
    python3 -m http.server 8000
    ```
+   Then navigate to `http://localhost:8000/src/`.
 
 ## License
 MIT

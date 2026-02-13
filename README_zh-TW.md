@@ -1,6 +1,6 @@
 # 日文 50 音學習 (繁體中文)
 
-[開始學習 (Live Demo)](index.html) | [English](README.md)
+[開始學習 (Live Demo)](src/index.html) | [English](README.md)
 
 這是一個專為繁體中文使用者（台灣）設計的日文平假名與片假名學習資源。使用 `reveal.js` 製作，提供互動式的 50 音學習投影片。
 
@@ -39,11 +39,12 @@
 
 ## 安裝與執行
 1. Clone 此專案。
-2. 在瀏覽器中打開 `index.html`。
+2. 在瀏覽器中打開 `src/index.html`。
 3. 若需本地開發，可執行簡單的 HTTP server：
    ```bash
    python3 -m http.server 8000
    ```
+   然後瀏覽 `http://localhost:8000/src/`。
 
 ## 授權
 MIT
